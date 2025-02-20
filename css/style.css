@@ -1,6 +1,8 @@
+\* texto centrado */
 .texto {
     margin: 0 25%;
 }
+\* imagen centrada y ajustada por tamaño */
 img {
     width: 50%;
     margin: 0 25%;
